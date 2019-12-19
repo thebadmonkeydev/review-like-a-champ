@@ -1,7 +1,7 @@
 # Review PRs like a Champ
 
 ---
-### Why we code review
+## Why we code review
 
 - Gatekeeping
 - Communicate
