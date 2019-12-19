@@ -38,10 +38,10 @@
 - QA Checklist
 
 +++
-### Note and describe your thought process
+### Write more
 
-- There is no perfect solution in code
--
+- Note your thought process
+- There are no perfect solutions, you're pitching yours
 
 ---
 ## Reviewing Pull Requests
