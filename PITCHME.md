@@ -102,4 +102,4 @@
 - Goal/Action oriented review
 - Educate and connect ideas
 - Provide examples
-- ASK QUESTIONS!?
+- Don't forget kudos and support
