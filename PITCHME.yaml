@@ -4,4 +4,11 @@ eager-load: true
 theme : template
 highlight: agate
 
-theme-background : ["#171e27"]
+theme-background : [ "#171e27" ]
+theme-headline   : [ "Quicksand", "#ffffffdd", "none" ]
+theme-byline     : [ "Quicksand", "#ffffffdd", "none" ]
+theme-text       : [ "Quicksand", "#ffffffdd", "none" ]
+
+theme-links      : [ "#5289F7", "#5254F7" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
