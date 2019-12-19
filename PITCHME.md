@@ -105,6 +105,6 @@
 - Don't forget kudos and support
 
 ---
-## Questions/Comments?
+## Questions/Comments
 
 Thanks for attending! :D
