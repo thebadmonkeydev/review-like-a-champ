@@ -6,9 +6,9 @@ highlight: agate
 
 theme-background : [ "#171e27" ]
 theme-background : [ "#393034" ]
-theme-headline   : [ "Quicksand", "#ffffffdd", "none" ]
-theme-byline     : [ "Quicksand", "#ffffffdd", "none" ]
-theme-text       : [ "Quicksand", "#ffffffdd", "none" ]
+theme-headline   : [ "Quicksand", "#ffffff", "none" ]
+theme-byline     : [ "Quicksand", "#ffffff", "none" ]
+theme-text       : [ "Quicksand", "#dddddd", "none" ]
 
 theme-links      : [ "#5289F7", "#5254F7" ]
 theme-controls   : [ "#484848" ]
