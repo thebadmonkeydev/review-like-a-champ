@@ -105,6 +105,6 @@
 - Don't forget kudos and support
 
 ---
-## fin
+## Questions/Comments?
 
-Thanks for listening! :D
+Thanks for attending! :D
