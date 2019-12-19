@@ -103,3 +103,8 @@
 - Educate and connect ideas
 - Provide examples
 - Don't forget kudos and support
+
+---
+## fin
+
+Thanks for listening! :D
